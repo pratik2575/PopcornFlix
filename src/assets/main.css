@@ -1,0 +1,103 @@
+.fontColor {
+    color: rgb(238, 240, 243);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.color {
+    background-color: rgb(9, 14, 37);
+}
+
+.outline-dark {
+    background-color: rgb(31, 47, 85);
+    color: rgb(69, 84, 122);
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+
+.white {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.yellow {
+    color: yellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.h:hover {
+    color: yellow;
+}
+
+.h:focus {
+    color: yellow;
+}
+
+.imgSize {
+    height: 311.83;
+    width: 400;
+
+}
+
+.ms {
+    margin-left: 37rem;
+}
+
+.size {
+    width: 232.52px;
+    height: 300.23px;
+}
+
+
+.carouselSize {
+    height: 542px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 60px 40px -7px;
+}
+
+.select {
+    width: 90px;
+}
+
+.space {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.carousel-control-prev {
+    justify-content: start !important;
+    width: 3%;
+}
+
+.carousel-control-next {
+    justify-content: end !important;
+    width: 3%;
+}
+
+#pageNotFound {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#notFoundTxt {
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.searchSelector {
+    width: 10px;
+}
+
+.infinite-scroll-component {
+    overflow: hidden !important;
+}
+.margin{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #151334;
+}
